@@ -7,7 +7,7 @@ This project is the result of an **End-of-Module** assignment, which I worked on
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [materiel_system2.sh](#materiel_system2.sh)
+2. [materiel_system2.sh](#materiel_system2sh)
     - [Hardware Configuration](#hardware-configuration)
     - [System Configuration](#system-configuration)
 3. [kernel2.sh](#kernel2.sh)
