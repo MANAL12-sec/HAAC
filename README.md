@@ -17,7 +17,7 @@ This project is the result of an **End-of-Module** assignment, which I worked on
     - [Network Hardening](#network-hardening)
     - [Filesystem Hardening](#filesystem-hardening)
     - [Backup and Restore](#backup-and-restore)
-4. [Service2.sh](#srvice2sh)
+4. [Service2.sh](#service2sh)
     - [Root Privileges Check](#root-privileges-check)
     - [Minimal Privilege Configuration for Services](#minimal-privilege-configuration-for-services)
     - [Permissions Adjustment on Executables](#permissions-adjustment-on-executables)
